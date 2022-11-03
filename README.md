@@ -1,6 +1,6 @@
 # IMDB Data Analysis
 
-### This notebook provides an insight into what factors make a movie successful. There are tens of thousands of movies that have been released over the past 150 years. In our case we will be looking at 5000 different movies from the IMDB dataset containing multiple features.
+### This notebook provides an insight into what factors make a movie successful. There are tens of thousands of movies that have been released over the past 150 years. In our case we will be looking at 5000 different movies from the IMDB dataset containing various features.
 
 **Goal:** Find biggest factors that determine if a movie is a success
 
