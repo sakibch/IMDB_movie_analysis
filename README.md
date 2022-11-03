@@ -8,8 +8,11 @@
 - The number of critic reviews, Duration, Gross revenue, Number of voted users, number of director facebook likes, Budget all have the most impact on the IMDB Rating (in order).
 
 **Models Used:** Linear Regression and XGBoost
+
 **Data Cleaning/Manipulation:** Pandas
+
 **Data Visualization:** Matplotlib, Seaborn
+
 **Data Modelling:** Sci-Kit Learn, XGBoost
 
 ### Powerpoint presentation: https://github.com/sakibch/IMDB_movie_analysis/blob/main/Presentation_IMDB_Data_Analysis.pdf
